@@ -1,2 +1,2 @@
 # python_project_bboby
-masih coba
+latihan_coding _pemula
